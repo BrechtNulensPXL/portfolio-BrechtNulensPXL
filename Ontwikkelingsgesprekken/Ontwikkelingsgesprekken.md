@@ -24,13 +24,13 @@ Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technisch
 
 Technische skills:
 
-- **_Documenteren_** - Zo relevant en gedetailleerd mogelijk een topic zwart op wit zetten doe ik graag. Een thema uitzoeken en condenseren tot een (redelijk) leesbaar document voor collega's vind ik geweldig.
+- **_Documenteren_** - Zo relevant en gedetailleerd mogelijk een topic zwart op wit zetten doe ik graag. Een thema uitzoeken en condenseren tot een (redelijk) leesbaar document voor collega's vind ik geweldig. (Bronnen en annotaties inbegrepen).
 
 Soft skills:
 
-- **_Presenteren_** - De gedocumenteerde topic verder samenvatten in een presentabel geheel dat de luisteraar kan volgen en begrijpen.
+- **_Presenteren_** - De gedocumenteerde topic verder samenvatten in een presentabel geheel dat de luisteraar kan volgen, begrijpen en iets zal van kunnen onthouden.
 
-- **Verbetering in samenwerken** - Belangrijke verbetering in deze soft skill. Ik ben meer open te komen staan voor groepsopdrachten en de aanpak van werken in groep (verandering in mindset).
+- **_Verbetering in samenwerken_** - Belangrijke verbetering in deze soft skill. Ik ben meer open te komen staan voor groepsopdrachten en de aanpak van werken in groep (verandering in mindset).
 
 Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 (ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
