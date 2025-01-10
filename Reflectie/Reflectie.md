@@ -2,11 +2,41 @@
 
 ## Reflectie WPL 1
 
-    Voeg je reflectie over de X-factor toe: beantwoord hiervoor de vragen uit het online leerpad van de X-factor. Je vindt de link naar dit leerpad op Blackboard in de map 'Persoonlijke ontwikkeling'
-    Reflecteer over één van de POP-sessies die je hebt gevolgd tijdens de lessen van WPL1 (motivatie / reflecteren / plannen en zelfsturing / autonomie en verantwoordelijkheid / personal branding). Beantwoord hiervoor de volgende vragen:
-        Wat heb je bijgeleerd tijdens deze POP-sessie?
-        Hoe kan je de leerstof uit deze sessie implementeren in je dagelijkse leven als systeem- en netwerkbeheerder?
-    Gebruik de AIM-methode die je hebt geleerd tijdens de POP-sessie over reflecteren om hier te reflecteren over één van de opdrachten die je hebt gemaakt tijdens WPL1. Wat ging goed / Wat ging minder goed / Wat zijn de belangrijkste inzichten / Wie of wat verdient waardering?
+### X-factor
+
+**_Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?_**
+
+**_Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?_**
+
+**_Hoe zou jij je X-factor verder kunnen ontwikkelen?_**
+
+### Reflectie POP: Plannen en zelfsturing
+
+**_Wat heb je bijgeleerd tijdens deze POP-sessie?_**
+
+Tijd (als een abstract begrip) wordt gegeven, het is aan jou om die zo goed mogelijk in te vullen om je doel(en) te kunnen bereiken. Hoe jij je tijd respecteert hangt van je planning en inzet af.
+
+**_Hoe kan je de leerstof uit deze sessie implementeren in je dagelijkse leven als systeem- en netwerkbeheerder?_**
+
+Planningen en roadmaps zijn onontbeerlijk voor professionele omgevingen, meer nog in technische vakgebieden. Ze duiden op de belangrijke aspecten van het leveren van diensten (onderhoud, oplevering), algemeen projectverloop (features, issues, scope) en interne werking van een afdeling (wie, wat, wanneer). Planningen worden in deze context vaak in groep opgesteld afhankelijk van de items die behandeld moeten worden, het beste is natuurlijk als die zo realistisch/haalbaar worden ingedeeld.
+
+Als individu heb je ook de verantwoordelijkheid om je toegewezen taken zelf binnen het afgesproken tijdsbestek zo efficient mogelijk in te delen en deze planning ook te respecteren. Dit voor jezelf maar ook als communicatiemiddel naar collega's die aan hetzelfde project of in hetzelfde tijdvenster werken.
+
+**_Wat ging goed ?_**
+
+Het verschil maken tussen hoofd- en bijzaken. Ik kan bijna altijd aanduiden waar prioriteiten liggen en waar valkuilen kunnen ontstaan zodat ik bewust ben van de onderdelen die nodig zijn om een minimaal aanvaardbare output te verzorgen.
+
+**_Wat ging minder goed ?_**
+
+Een haalbare planning opstellen in werkelijkheid is moeilijker dan ik dacht als je rekening moet houden met bijkomende problemen (verschuivingen van items, onderschatten/overschatten van tijdsduur, scope creep).
+
+**_Wat zijn de belangrijkste inzichten ?_**
+
+Een planning werkt enkel als die gerespecteerd wordt. Teveel schuiven en herberekenen betekent tijdverlies en is inefficient voor zowel jezelf, je collega's en je bedrijf later.
+
+**_Wie/Wat verdient waardering ?_**
+
+Voor jezelf een haalbare planning opstellen waaraan je kan werken is op zich goud waard. Je mag jezelf ook niet beschouwen als een robot die systematisch problemen oplost en daarom moet je ook tijd voor jezelf kunnen gunnen.
 
 ### Slotevaluatie
 
@@ -14,9 +44,9 @@
 
 Voor mezelf heb ik besloten om GEEN "monkey job" meer te willen aannemen. Dit soort job beperkt je eigen groeimogelijkheid door je een heel beperkte set aan taken te laten uitvoeren voor een bleek salaris in een omgeving die met stijve teugels gestuurd wordt.
 
-Ik ben ervan overtuigd dat goede recruiters en managers de juiste mensen de juiste verantwoordelijkheden kunnen aanmeten. Mijn eerste rol zal niet enorm impactvol maar wel evenredig aan mijn vaardigheden zijn zodat ik me op termijn kan drijven en kan verbeteren om zo door te groeien.
+Ik ben ervan overtuigd dat goede recruiters en managers de juiste mensen de juiste verantwoordelijkheden kunnen aanmeten. Mijn eerste functie zal niet enorm impactvol maar wel evenredig aan mijn vaardigheden zijn zodat ik me op termijn kan drijven en kan verbeteren om zo door te groeien. Dit antwoord is algemeen voor elke job die ik beoog, een specifieke job kan ik niet meteen vastpinnen.
 
-Dit antwoord is algemeen voor elke job die ik beoog, een specifieke job kan ik niet meteen vastpinnen.
+Wel kan ik zeggen dat voor eendere welke rol ik zal aannemen het een continu leerproces zal worden.
 
 **_Waarover zou je nog wel een gastseminarie willen tijdens WPL2?_**  
 
@@ -24,11 +54,11 @@ Een gastseminarie van een freelancer of ondernemer zoals XPOSE, personen die doo
 
 **_Welk inzicht heeft WPL1 jou gebracht?_**  
 
-Er valt nog veel te leren en te doen, maar dat kan alleen volbracht worden met de juiste ingesteldheid of door verandering in attitude. Het klinkt cliche maar af en toe veranderen van perspectief kan wonderen verrichten.
+Bewust te werk gaan met de opdrachten en onderwerpen die aan bod komen in de opleiding met de onderdelen van de X-factor in het achterhoofd. De mate van succes tijdens en na de opleiding is individueel en hangt volledig af van de mate waarin je je zo compleet en doelgericht kan opstellen.
 
 **_Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?_**
 
-Ik kijk ernaar uit om mijn vooruitgang uit WPL1 door te zetten en te vertalen naar de opdracht(en) van WPL2. Werkpunten zoals persoonlijke planning ga ik zo goed mogelijk proberen toe te passen alsook letten op het bewust bezig zijn met de taak/taken (Waar ben ik 'precies' mee bezig ? Hoe kan ik dit verder oplossen ? Hoe kan ik dit verder nog gebruiken ?)
+Ik kijk ernaar uit om mijn vooruitgang uit WPL1 door te zetten en te vertalen naar de opdracht(en) van WPL2. Werkpunten zoals persoonlijke planning ga ik zo goed mogelijk proberen toe te passen alsook letten op het bewust bezig zijn met de taak/taken (Waar ben ik 'precies' mee bezig ? Hoe kan ik dit verder oplossen ? Hoe kan ik deze opdracht in de toekomst nog gebruiken ?)
 
 Ook ben ik benieuwd hoe diep we op meer technische aspecten zouden kunnen ingaan ? (Doorlopend zelfstudieproject ?)
 
