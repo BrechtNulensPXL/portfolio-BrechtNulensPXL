@@ -6,15 +6,22 @@
 
 **_Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?_**
 
+Voorlopig kan ik van de 4 pijlers enkel Empassie aanduiden waar ik nog maar aan heb kunnen werken in WPL1.
+Het gaat dan voor mij om open te staan voor groepswerk en effectief samenwerken, waar ik eerder geen geduld of verstand voor had heb ik nu beter kunnen plaatsen door mezelf in de groep te plaatsen door de praktische kant van de opdracht gezamenlijk te bespreken en zo taken te verdelen. Ook sta ik meer open om voorkomende problemen te bespreken en er op toezien dat de persoon zijn/haar gedeelte wel kan voltooien (niet het werk overnemen maar wel opvolgen en helpen).
+
 **_Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?_**
 
+Empassie houdt een zekere wederkerigheid in, het werkt in twee richtingen als een basis van respect. Als systeem- en netwerkbeheerder zal er in groep of per afdeling gewerkt worden waar empassie nodig zal zijn om de nodige projecten en problemen efficient te kunnen oplossen. Ik zie het dan niet dat je meteen de beste vrienden van elkaar zal worden, dat is een mooie bonus, maar eerder dat empassie een omgeving van groot vertrouwen kan creëren waarbij hulp gevraagd en hulp geboden kan worden.
+
 **_Hoe zou jij je X-factor verder kunnen ontwikkelen?_**
+
+Er zijn nog zeker 3 pijlers om aan te werken, ik probeer ze niet te beschouwen als _'de facto'_ regels maar eerder als leidraden in mijn studie en latere carrière. Komende maanden zijn mij nog onbekend als het aan mijn toekomst als student aan de PXL aankomt. Ik kan hier geen concreet antwoord op geven.
 
 ### Reflectie POP: Plannen en zelfsturing
 
 **_Wat heb je bijgeleerd tijdens deze POP-sessie?_**
 
-Tijd (als een abstract begrip) wordt gegeven, het is aan jou om die zo goed mogelijk in te vullen om je doel(en) te kunnen bereiken. Hoe jij je tijd respecteert hangt van je planning en inzet af.
+Tijd (als een abstract begrip) wordt gegeven, het is aan jou om die zo goed mogelijk in te vullen om je doel(en) te kunnen bereiken. Hoe jij je tijd respecteert hangt van je planning, attitude en inzet af.
 
 **_Hoe kan je de leerstof uit deze sessie implementeren in je dagelijkse leven als systeem- en netwerkbeheerder?_**
 
