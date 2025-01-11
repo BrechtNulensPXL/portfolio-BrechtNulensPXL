@@ -67,7 +67,7 @@ Bewust te werk gaan met de opdrachten en onderwerpen die aan bod komen in de opl
 
 Ik kijk ernaar uit om mijn vooruitgang uit WPL1 door te zetten en te vertalen naar de opdracht(en) van WPL2. Werkpunten zoals persoonlijke planning ga ik zo goed mogelijk proberen toe te passen alsook letten op het bewust bezig zijn met de taak/taken (Waar ben ik 'precies' mee bezig ? Hoe kan ik dit verder oplossen ? Hoe kan ik deze opdracht in de toekomst nog gebruiken ?)
 
-Ook ben ik benieuwd hoe diep we op meer technische aspecten zouden kunnen ingaan ? (Doorlopend zelfstudieproject ?)
+Ook ben ik benieuwd hoe diep we op meer technische aspecten zouden kunnen ingaan ? (Doorlopend zelfstudieproject met hier en daar onderwerpen die als multidisciplinair beschouwd kunnen worden ?)
 
 ## Reflectie WPL 2
 
